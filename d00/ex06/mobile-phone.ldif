@@ -1,0 +1,4 @@
+dn:uid=btymoshc,ou=july,ou=2017,ou=people,dc=unit,dc=ua
+changetype: modify
+add: mobile
+mobile: (093) 91 81 777
